@@ -1,6 +1,6 @@
 # Digital Product Studio
 
-An interconnected Claude Skill system for building and launching digital products (planners, trackers, Notion templates, etc.) targeted at the US market from India.
+An interconnected Claude Skill system for building and launching digital products (planners, trackers, Notion templates, printables) targeted at the US market from India. Refined with practical lessons from real digital product selling.
 
 ## Pipeline
 
@@ -27,15 +27,23 @@ DIGITAL PRODUCT STUDIO
    - Generate 15–20 Pinterest pins with SEO
    - Prepare Gumroad and Etsy listings
 
-The system requires the LLM to research online (Pinterest Trends, Etsy competitors, keyword suggestions) at every relevant stage. It must be creative while staying grounded in real demand.
+The system requires the LLM to research online (Pinterest Trends, Etsy competitors, keyword suggestions) at every relevant stage. It prioritizes evidence of people already paying and produces concrete deliverables.
 
 ## Seller Requirements (Indian creators → US market)
 
-- Gumroad creator account
-- PayPal (where eligible)
+Recommended starting order:
+- Gumroad creator account (start here)
 - Pinterest Business account
-- Etsy seller account (if using Etsy)
-- Check GSTIN requirements
-- Payoneer (if required for Etsy payouts)
+- Payment and bank verification
+- Etsy only after the product is proven
+- Payoneer if required for Etsy
+- Check GSTIN requirements for your situation
 
-See `00-seller-setup/` for details.
+See `00-seller-setup/` for details and the Account Readiness Gate.
+
+## Key Principles
+- Search volume ≠ sales. Look for commercial intent.
+- Freebies must solve a real problem to convert.
+- Start on Gumroad for simpler payouts; add Etsy later.
+- Elevate existing aesthetics instead of stripping them.
+- Fresh, keyword-aligned Pinterest pins compound over time.
