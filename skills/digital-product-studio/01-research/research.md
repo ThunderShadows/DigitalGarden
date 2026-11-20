@@ -1,20 +1,24 @@
 # Product Research (Module 01)
 
-You must research online. Do not rely on training data alone.
+You must research online. Training data alone is not sufficient. Prioritize evidence that people are already paying.
 
 ## Research Steps
-1. Pinterest Trends + search autocomplete for the niche (US audience).
-2. Etsy competitor analysis: formats, pricing, best-sellers, review complaints.
-3. Identify unmet needs and differentiation opportunities.
-4. Pricing ranges and positioning.
-5. Distinguish search interest vs. commercial intent.
+1. Pinterest Trends + search autocomplete for the niche (focus on US audience). Note seasonal spikes.
+2. Etsy competitor analysis:
+   - Search the main keyword and sort by bestselling or relevance.
+   - Record price ranges, number of reviews, and recent review complaints.
+   - Note product formats that appear repeatedly (printable PDF, Goodnotes, Notion, Canva).
+3. Identify unmet needs from 1–2 star and 3-star reviews (missing features, usability issues, confusing instructions).
+4. Pricing clusters: what prices actually sell versus what is listed.
+5. Separate search interest (Pinterest) from commercial intent (Etsy sales volume and review velocity).
 
 ## Output
-Product research report with top 5 opportunities, each with:
-- Demand evidence
-- Competition level
-- Differentiation angle
-- Estimated effort
-- Suggested freebie + premium split
+Product research report with top 5 opportunities. For each include:
+- Demand evidence (search signals + evidence of purchases)
+- Competition level and dominant formats
+- Differentiation angle based on real complaints or gaps
+- Estimated production effort
+- Suggested freebie (solves one sharp problem) + premium split
+- Risk notes (oversaturated, seasonal only, hard to mock up, etc.)
 
-Be creative in spotting gaps while staying evidence-based.
+Be creative in spotting gaps, but reject ideas that have high search volume and zero evidence of people paying.
